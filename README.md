@@ -1,4 +1,4 @@
-# detect_valid_area_in_hologic_slide  
+# detect_valid_area_in_Thinprep_slide  
 
 - Background and purpose of the program
 
