@@ -1,0 +1,1 @@
+# detect_valid_area_in_hologic_slide
